@@ -1,0 +1,1 @@
+const e={key:"v-9a00fb30",path:"/encodings/",title:"Encodings",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"encodings/index.md",git:{updatedTime:1646021672e3}};export{e as data};

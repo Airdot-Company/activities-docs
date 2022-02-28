@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.c5dbdcb8.js";const r={},s={"http-equiv":"Refresh",content:"0; url='https://discord.gg/sG6aZb4PPN'"};r.render=function(r,o){return t(),e("meta",s)};export{r as default};
